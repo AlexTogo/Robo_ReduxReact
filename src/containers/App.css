@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Auto Mission';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Auto Mission'), url('Auto Mission.woff') format('woff');
+}
+
+.title-text {
+	font-family: 'Auto Mission';
+	font-size: 90px;
+	margin-bottom: 0;
+	margin-top: 20px;
+}

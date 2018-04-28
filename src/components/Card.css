@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Auto Mission';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Auto Mission'), url('../containers/Auto Mission.woff') format('woff');
+}
+
+.name-text {
+	font-size: 25px;
+}
